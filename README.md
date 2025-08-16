@@ -8,7 +8,7 @@
 
 <br/>
 
-## About The Project
+## 💻 About The Project
 
 This app lets users search for movies and view details like synopsis, cast, rating, trailer, and release date. It uses the TMDB API to quickly show popular, trending, and top-rated films.
 
@@ -23,7 +23,7 @@ This app lets users search for movies and view details like synopsis, cast, rati
 
 <br/>
 
-## See the project
+## 🌍 See the project
 
 If you want to see the project running in your browser, check it out
 <br/>
@@ -32,7 +32,7 @@ If you want to see the project running in your browser, check it out
 
 <br/>
 
-## Installation
+## ⚡Installation
 
 1. Clone this repository: 
    ```bash
@@ -63,7 +63,7 @@ If you want to see the project running in your browser, check it out
 ```
 <br/>
 
-## Technologies
+## ⚙️ Technologies
 
 - HTML5
 - CSS3
